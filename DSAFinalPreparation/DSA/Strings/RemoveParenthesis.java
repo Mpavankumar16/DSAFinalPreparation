@@ -1,6 +1,6 @@
 public class RemoveParenthesis{
     public static void main(String... args) {
-        Stirng s = "(()())(())(()(()))";
+        String s = "(()())(())(()(()))";
         System.out.println(removeOuterParentheses(s));
     }
     public static String removeOuterParentheses(String s) {
