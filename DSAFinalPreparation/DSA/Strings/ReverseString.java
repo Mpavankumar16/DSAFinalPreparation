@@ -1,13 +1,18 @@
-public class Strings{
-    public static void main(Stirng... args){
-        char[] c = {"h","e","l","l","o"};
+import java.util.Arrays;
+
+public class ReverseString{
+    public static void main(String... args){
+        String[] c = {"h","e","l","l","o"};
+        System.out.println("Ok");
         reverseString(c);
+        System.out.println("Ok");
+        System.out.println(Arrays.toString(c));
     }
-    public void reverseString(char[] c) {
+    public static void reverseString(String[] c) {
         int s = 0;
         int e = c.length-1;
         while(s<e){
-            int temp = c[s];
+            String temp = c[s];
             c[s] = c[e];
             c[e] = temp;
         }

@@ -2,7 +2,7 @@ public class CheckPalindrome{
     public static void main(String... args){
         System.out.println(isPalindrome("A man, a plan, a canal: Panama"));
     }
-    public boolean isPalindrome(String s) {
+    public static boolean isPalindrome(String s) {
         String ans = "";
         s = s.toLowerCase();
         for(int i=0; i<s.length(); i++){
