@@ -7,5 +7,7 @@
 	</classpathentry>
 	<classpathentry kind="src" path="practice"/>
 	<classpathentry kind="src" path="DSA/Strings"/>
+	<classpathentry kind="src" path="DSA/Sorting"/>
+	<classpathentry excluding="practice/|DSA/Strings/|DSA/Sorting/" kind="src" path=""/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

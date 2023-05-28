@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CheckSubArraySumK",
+            "request": "launch",
+            "mainClass": "DSA.Arrays.CheckSubArraySumK",
+            "projectName": "DSAFinalPreparation"
+        },
+        {
+            "type": "java",
+            "name": "CheckRotatedSortedArray",
+            "request": "launch",
+            "mainClass": "DSA.Arrays.CheckRotatedSortedArray",
+            "projectName": "DSAFinalPreparation"
+        },
+        {
+            "type": "java",
+            "name": "InsertionSort",
+            "request": "launch",
+            "mainClass": "InsertionSort",
+            "projectName": "DSAFinalPreparation"
+        },
+        {
+            "type": "java",
+            "name": "SelectionSort",
+            "request": "launch",
+            "mainClass": "SelectionSort",
+            "projectName": "DSAFinalPreparation"
+        },
+        {
+            "type": "java",
+            "name": "RotateString",
+            "request": "launch",
+            "mainClass": "RotateString",
+            "projectName": "DSAFinalPreparation"
+        },
+        {
+            "type": "java",
+            "name": "ReverseSentence",
+            "request": "launch",
+            "mainClass": "ReverseSentence",
+            "projectName": "DSAFinalPreparation"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"

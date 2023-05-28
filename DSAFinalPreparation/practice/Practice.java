@@ -1,8 +1,11 @@
+import java.util.Arrays;
 
 public class Practice {
 
 	public static void main(String[] args) {
-		System.out.println("Hello world");
+		String s = "";
+		StringBuilder str = new StringBuilder();
+		System.out.println("ok");
 
 	}
 
