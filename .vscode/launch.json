@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LindedListDemo",
+            "request": "launch",
+            "mainClass": "DSA.LinkedList.LindedListDemo",
+            "projectName": "DSAFinalPreparation"
+        },
+        {
+            "type": "java",
+            "name": "LongestConsecutiveSequence",
+            "request": "launch",
+            "mainClass": "DSA.Arrays.LongestConsecutiveSequence",
+            "projectName": "DSAFinalPreparation"
+        },
+        {
+            "type": "java",
+            "name": "NextPermutation",
+            "request": "launch",
+            "mainClass": "DSA.Arrays.NextPermutation",
+            "projectName": "DSAFinalPreparation"
+        },
+        {
+            "type": "java",
             "name": "CheckSubArraySumK",
             "request": "launch",
             "mainClass": "DSA.Arrays.CheckSubArraySumK",
