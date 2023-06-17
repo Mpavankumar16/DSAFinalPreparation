@@ -6,7 +6,7 @@ public class BubbleSort {
         boolean swapped = false;
         for(int i=0; i<arr.length-1; i++){
             swapped = false;
-            for(int j=1; j<arr.length; j++){
+            for(int j=1; j<arr.length-i; j++){
                 if(arr[j-1]>arr[j]){
                     swap(arr, j-1, j);
                     swapped = true;

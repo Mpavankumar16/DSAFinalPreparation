@@ -6,6 +6,160 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SubSequenceSubSetTwo",
+            "request": "launch",
+            "mainClass": "DSA.Recursion.SubSequenceSubSetTwo",
+            "projectName": "DSAFinalPreparation_e2803a5d"
+        },
+        {
+            "type": "java",
+            "name": "SubSequenceSubSet",
+            "request": "launch",
+            "mainClass": "DSA.Recursion.SubSequenceSubSet",
+            "projectName": "DSAFinalPreparation_e2803a5d"
+        },
+        {
+            "type": "java",
+            "name": "TowerOfHanoi",
+            "request": "launch",
+            "mainClass": "DSA.Recursion.TowerOfHanoi",
+            "projectName": "DSAFinalPreparation_e2803a5d"
+        },
+        {
+            "type": "java",
+            "name": "SubSetTWO",
+            "request": "launch",
+            "mainClass": "DSA.Recursion.SubSetTWO",
+            "projectName": "DSAFinalPreparation_e2803a5d"
+        },
+        {
+            "type": "java",
+            "name": "SubSetONE",
+            "request": "launch",
+            "mainClass": "DSA.Recursion.SubSetONE",
+            "projectName": "DSAFinalPreparation_e2803a5d"
+        },
+        {
+            "type": "java",
+            "name": "Permutation",
+            "request": "launch",
+            "mainClass": "DSA.Recursion.Permutation",
+            "projectName": "DSAFinalPreparation_e2803a5d"
+        },
+        {
+            "type": "java",
+            "name": "SubSetArray",
+            "request": "launch",
+            "mainClass": "DSA.Recursion.SubSetArray",
+            "projectName": "DSAFinalPreparation_e2803a5d"
+        },
+        {
+            "type": "java",
+            "name": "SubSet",
+            "request": "launch",
+            "mainClass": "DSA.Recursion.SubSet",
+            "projectName": "DSAFinalPreparation_e2803a5d"
+        },
+        {
+            "type": "java",
+            "name": "SkipCharacter",
+            "request": "launch",
+            "mainClass": "DSA.Recursion.SkipCharacter",
+            "projectName": "DSAFinalPreparation_e2803a5d"
+        },
+        {
+            "type": "java",
+            "name": "SelectionSort",
+            "request": "launch",
+            "mainClass": "DSA.Recursion.SelectionSort",
+            "projectName": "DSAFinalPreparation_e2803a5d"
+        },
+        {
+            "type": "java",
+            "name": "BubbleSort",
+            "request": "launch",
+            "mainClass": "DSA.Recursion.BubbleSort",
+            "projectName": "DSAFinalPreparation_e2803a5d"
+        },
+        {
+            "type": "java",
+            "name": "StarPrinting",
+            "request": "launch",
+            "mainClass": "DSA.Recursion.StarPrinting",
+            "projectName": "DSAFinalPreparation_e2803a5d"
+        },
+        {
+            "type": "java",
+            "name": "ReverseSentence",
+            "request": "launch",
+            "mainClass": "ReverseSentence",
+            "projectName": "DSAFinalPreparation_e2803a5d"
+        },
+        {
+            "type": "java",
+            "name": "RotateKTimes",
+            "request": "launch",
+            "mainClass": "DSA.LinkedList.RotateKTimes",
+            "projectName": "DSAFinalPreparation_e2803a5d"
+        },
+        {
+            "type": "java",
+            "name": "Practice",
+            "request": "launch",
+            "mainClass": "Practice",
+            "projectName": "DSAFinalPreparation_e2803a5d"
+        },
+        {
+            "type": "java",
+            "name": "Practice",
+            "request": "launch",
+            "mainClass": "practice.Practice",
+            "projectName": "DSAFinalPreparation_e2803a5d"
+        },
+        {
+            "type": "java",
+            "name": "ReorderLinkedList",
+            "request": "launch",
+            "mainClass": "DSA.LinkedList.ReorderLinkedList",
+            "projectName": "DSAFinalPreparation_e2803a5d"
+        },
+        {
+            "type": "java",
+            "name": "ReversePartOfList",
+            "request": "launch",
+            "mainClass": "DSA.LinkedList.ReversePartOfList",
+            "projectName": "DSAFinalPreparation_e2803a5d"
+        },
+        {
+            "type": "java",
+            "name": "BubbleSort",
+            "request": "launch",
+            "mainClass": "BubbleSort",
+            "projectName": "DSAFinalPreparation_e2803a5d"
+        },
+        {
+            "type": "java",
+            "name": "ReverseLinkedList",
+            "request": "launch",
+            "mainClass": "DSA.LinkedList.ReverseLinkedList",
+            "projectName": "DSAFinalPreparation_e2803a5d"
+        },
+        {
+            "type": "java",
+            "name": "MergeTwoLinkedList",
+            "request": "launch",
+            "mainClass": "DSA.LinkedList.MergeTwoLinkedList",
+            "projectName": "DSAFinalPreparation_e2803a5d"
+        },
+        {
+            "type": "java",
+            "name": "RemoveDuplicates",
+            "request": "launch",
+            "mainClass": "DSA.LinkedList.RemoveDuplicates",
+            "projectName": "DSAFinalPreparation_e2803a5d"
+        },
+        {
+            "type": "java",
             "name": "LindedListDemo",
             "request": "launch",
             "mainClass": "DSA.LinkedList.LindedListDemo",

@@ -10,7 +10,6 @@ public class CheckSubArraySumK {
         HashMap<Integer, Integer> map = new HashMap<>();
         int sum = 0;
         int ans = 0;
-        map.put(0, 0);
         for(int i=0; i<n; i++){
             //adding values to sum to check if k exists
             sum +=arr[i];
