@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "DuplicateSubSequence",
+            "request": "launch",
+            "mainClass": "DSA.Recursion.DuplicateSubSequence",
+            "projectName": "DSAFinalPreparation_e2803a5d"
+        },
+        {
+            "type": "java",
+            "name": "power",
+            "request": "launch",
+            "mainClass": "DSA.Recursion.power",
+            "projectName": "DSAFinalPreparation_e2803a5d"
+        },
+        {
+            "type": "java",
+            "name": "CombinationSum",
+            "request": "launch",
+            "mainClass": "DSA.Recursion.CombinationSum",
+            "projectName": "DSAFinalPreparation_e2803a5d"
+        },
+        {
+            "type": "java",
             "name": "SubSequenceSubSetTwo",
             "request": "launch",
             "mainClass": "DSA.Recursion.SubSequenceSubSetTwo",
