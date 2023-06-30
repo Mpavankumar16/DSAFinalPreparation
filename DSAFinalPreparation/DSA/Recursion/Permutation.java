@@ -7,7 +7,6 @@ public class Permutation {
         // permutationOne(new int[]{1,2,3}, new ArrayList<>(), ans, new boolean[3]);
         permutationEfficient(new int[]{1,2,3}, 0, ans);
         System.out.println(ans);
-        StringBuilder ansStr = new StringBuilder();
     }
     static void permutationEfficient(int[] nums, int ind, ArrayList<ArrayList<Integer>> ans){
         if(ind==nums.length-1){

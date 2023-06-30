@@ -6,6 +6,76 @@
     "configurations": [
         {
             "type": "java",
+            "name": "NextGreaterElement",
+            "request": "launch",
+            "mainClass": "DSA.Stack.NextGreaterElement",
+            "projectName": "DSAFinalPreparation_e2803a5d"
+        },
+        {
+            "type": "java",
+            "name": "QueueImplementWithStack",
+            "request": "launch",
+            "mainClass": "DSA.Queue.QueueImplementWithStack",
+            "projectName": "DSAFinalPreparation_e2803a5d"
+        },
+        {
+            "type": "java",
+            "name": "QueueLinkedList",
+            "request": "launch",
+            "mainClass": "DSA.Queue.QueueLinkedList",
+            "projectName": "DSAFinalPreparation_e2803a5d"
+        },
+        {
+            "type": "java",
+            "name": "CircularQueue",
+            "request": "launch",
+            "mainClass": "DSA.Queue.CircularQueue",
+            "projectName": "DSAFinalPreparation_e2803a5d"
+        },
+        {
+            "type": "java",
+            "name": "QueueArrayImplementation",
+            "request": "launch",
+            "mainClass": "DSA.Queue.QueueArrayImplementation",
+            "projectName": "DSAFinalPreparation_e2803a5d"
+        },
+        {
+            "type": "java",
+            "name": "ReverseStack",
+            "request": "launch",
+            "mainClass": "DSA.Stack.ReverseStack",
+            "projectName": "DSAFinalPreparation_e2803a5d"
+        },
+        {
+            "type": "java",
+            "name": "AddElementBottom",
+            "request": "launch",
+            "mainClass": "DSA.Stack.AddElementBottom",
+            "projectName": "DSAFinalPreparation_e2803a5d"
+        },
+        {
+            "type": "java",
+            "name": "SubSetTwo",
+            "request": "launch",
+            "mainClass": "DSA.Recursion.SubSetTwo",
+            "projectName": "DSAFinalPreparation_e2803a5d"
+        },
+        {
+            "type": "java",
+            "name": "LongestConsecutiveSequence",
+            "request": "launch",
+            "mainClass": "DSA.Arrays.LongestConsecutiveSequence",
+            "projectName": "DSAFinalPreparation_e2803a5d"
+        },
+        {
+            "type": "java",
+            "name": "InsertionSort",
+            "request": "launch",
+            "mainClass": "InsertionSort",
+            "projectName": "DSAFinalPreparation_e2803a5d"
+        },
+        {
+            "type": "java",
             "name": "DuplicateSubSequence",
             "request": "launch",
             "mainClass": "DSA.Recursion.DuplicateSubSequence",

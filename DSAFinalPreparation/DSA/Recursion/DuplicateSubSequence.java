@@ -3,6 +3,7 @@ package DSA.Recursion;
 public class DuplicateSubSequence {
     public static void main(String... args){
         solve("abc", "", 0);
+        boolean[] arr = new boolean[5];
     }
     static void solve(String p, String up, int ind){
         System.out.println(up);
