@@ -12,7 +12,7 @@ public class ReverseLinkedList {
         
         // Node ans = reverseLinkedList(linkedList.head);
         // Node.display(ans);
-        Node ans = reverseBetween(linkedList.head, 0, 5);
+        Node ans = reverseBetween(linkedList.head, 2, 4);
         Node.display(ans);
         
     }

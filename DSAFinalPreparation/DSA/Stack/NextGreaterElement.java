@@ -11,7 +11,7 @@ public class NextGreaterElement {
     public static long[] nextLargerElement(long[] arr, int n){ 
         Stack<Long> temp = new Stack<>();
         long[] ans = new long[n];
-        ans[0] = -1;
+        ans[n-1] = -1;
         temp.push(arr[n-1]);
         
         int ind = 1;
@@ -22,26 +22,14 @@ public class NextGreaterElement {
                 temp.pop();   
             }
             if(temp.isEmpty()){
-                ans[ind++] = -1;
+                ans[i] = -1;
             }
             else{
-                ans[ind++] = temp.peek();
+                ans[i] = temp.peek();
             }
             temp.push(arr[i]);
         }
-        reverseArray(ans);
+        // reverseArray(ans);
         return ans;
     } 
-    static void reverseArray(long[] arr){
-        int s = 0;
-        int e = arr.length-1;
-        long temp;
-        while(s<e){
-            temp = arr[s];
-            arr[s]  =arr[e];
-            arr[e]  =temp;
-            s++;
-            e--;
-        }
-    }
 }

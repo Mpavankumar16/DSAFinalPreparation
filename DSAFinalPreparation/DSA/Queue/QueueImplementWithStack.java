@@ -36,6 +36,7 @@ public class QueueImplementWithStack {
     }
 
     public static void main(String... args) {
+        Queue<Integer> ans = new LinkedList<>();
         
     }
 }

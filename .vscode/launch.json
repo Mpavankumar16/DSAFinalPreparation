@@ -6,6 +6,76 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MinWindowSubString",
+            "request": "launch",
+            "mainClass": "DSA.SlidingWindow.MinWindowSubString",
+            "projectName": "DSAFinalPreparation_e2803a5d"
+        },
+        {
+            "type": "java",
+            "name": "LongestKUniqueCharactersInSubString",
+            "request": "launch",
+            "mainClass": "DSA.SlidingWindow.LongestKUniqueCharactersInSubString",
+            "projectName": "DSAFinalPreparation_e2803a5d"
+        },
+        {
+            "type": "java",
+            "name": "CountAnnagrams",
+            "request": "launch",
+            "mainClass": "DSA.SlidingWindow.CountAnnagrams",
+            "projectName": "DSAFinalPreparation_e2803a5d"
+        },
+        {
+            "type": "java",
+            "name": "FirstNegIntegerInSubArray",
+            "request": "launch",
+            "mainClass": "DSA.SlidingWindow.FirstNegIntegerInSubArray",
+            "projectName": "DSAFinalPreparation_e2803a5d"
+        },
+        {
+            "type": "java",
+            "name": "FirstNegIntegerInSubArray",
+            "request": "launch",
+            "mainClass": "FirstNegIntegerInSubArray",
+            "projectName": "DSAFinalPreparation_e2803a5d"
+        },
+        {
+            "type": "java",
+            "name": "SlidingWindowMaximum",
+            "request": "launch",
+            "mainClass": "DSA.Stack.SlidingWindowMaximum",
+            "projectName": "DSAFinalPreparation_e2803a5d"
+        },
+        {
+            "type": "java",
+            "name": "MergeSortLL",
+            "request": "launch",
+            "mainClass": "DSA.LinkedList.MergeSortLL",
+            "projectName": "DSAFinalPreparation_e2803a5d"
+        },
+        {
+            "type": "java",
+            "name": "SortStack",
+            "request": "launch",
+            "mainClass": "DSA.Stack.SortStack",
+            "projectName": "DSAFinalPreparation_e2803a5d"
+        },
+        {
+            "type": "java",
+            "name": "MinStack",
+            "request": "launch",
+            "mainClass": "DSA.Stack.MinStack",
+            "projectName": "DSAFinalPreparation_e2803a5d"
+        },
+        {
+            "type": "java",
+            "name": "RainWaterTrapping",
+            "request": "launch",
+            "mainClass": "DSA.Stack.RainWaterTrapping",
+            "projectName": "DSAFinalPreparation_e2803a5d"
+        },
+        {
+            "type": "java",
             "name": "NextGreaterElement",
             "request": "launch",
             "mainClass": "DSA.Stack.NextGreaterElement",
