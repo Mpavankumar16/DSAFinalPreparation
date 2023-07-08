@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AllSubArrayWithSumK",
+            "request": "launch",
+            "mainClass": "DSA.SlidingWindow.AllSubArrayWithSumK",
+            "projectName": "DSAFinalPreparation_e2803a5d"
+        },
+        {
+            "type": "java",
             "name": "MinWindowSubString",
             "request": "launch",
             "mainClass": "DSA.SlidingWindow.MinWindowSubString",
