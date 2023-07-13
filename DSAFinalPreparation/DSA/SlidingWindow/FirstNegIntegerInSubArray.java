@@ -4,7 +4,6 @@ import java.util.*;
 public class FirstNegIntegerInSubArray {
     public static void main(String... args){
         int[] arr = {-8,2,4,5,-3,4,5};
-        System.out.println("HI");
         System.out.println(Arrays.toString(solve(arr, 4)));
     }
     static int[] solve(int[] arr, int k){

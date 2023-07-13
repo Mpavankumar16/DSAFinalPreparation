@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PreOrderSeqTree",
+            "request": "launch",
+            "mainClass": "DSA.Tree_BinaryTree.PreOrderSeqTree",
+            "projectName": "DSAFinalPreparation_e2803a5d"
+        },
+        {
+            "type": "java",
+            "name": "TrieImplementation",
+            "request": "launch",
+            "mainClass": "DSA.Trie.TrieImplementation",
+            "projectName": "DSAFinalPreparation_e2803a5d"
+        },
+        {
+            "type": "java",
+            "name": "HeapSort",
+            "request": "launch",
+            "mainClass": "HeapSort",
+            "projectName": "DSAFinalPreparation_e2803a5d"
+        },
+        {
+            "type": "java",
+            "name": "HeapifyAlgo",
+            "request": "launch",
+            "mainClass": "DSA.HashingHeap.HeapifyAlgo",
+            "projectName": "DSAFinalPreparation_e2803a5d"
+        },
+        {
+            "type": "java",
+            "name": "HeapImplementation",
+            "request": "launch",
+            "mainClass": "DSA.HashingHeap.HeapImplementation",
+            "projectName": "DSAFinalPreparation_e2803a5d"
+        },
+        {
+            "type": "java",
+            "name": "NearlySortedArray",
+            "request": "launch",
+            "mainClass": "DSA.HashingHeap.NearlySortedArray",
+            "projectName": "DSAFinalPreparation_e2803a5d"
+        },
+        {
+            "type": "java",
+            "name": "KLargestElem",
+            "request": "launch",
+            "mainClass": "DSA.HashingHeap.KLargestElem",
+            "projectName": "DSAFinalPreparation_e2803a5d"
+        },
+        {
+            "type": "java",
             "name": "AllSubArrayWithSumK",
             "request": "launch",
             "mainClass": "DSA.SlidingWindow.AllSubArrayWithSumK",

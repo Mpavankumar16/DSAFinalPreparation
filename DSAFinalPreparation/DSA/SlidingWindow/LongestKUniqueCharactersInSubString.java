@@ -19,7 +19,6 @@ public class LongestKUniqueCharactersInSubString {
            if(temp.size()==k){
                ans = Math.max(ans, j-i+1);
            }
-           
            while(temp.size()>k){
                c= s.charAt(i);
                temp.put(c, temp.get(c)-1);
