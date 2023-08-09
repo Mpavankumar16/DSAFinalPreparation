@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "test",
+            "request": "launch",
+            "mainClass": "DSA.Test.test",
+            "projectName": "DSAFinalPreparation_e2803a5d"
+        },
+        {
+            "type": "java",
+            "name": "Code2Coins",
+            "request": "launch",
+            "mainClass": "DSA.Lecture12Greedy.Code2Coins",
+            "projectName": "DSAFinalPreparation_e2803a5d"
+        },
+        {
+            "type": "java",
+            "name": "Code2Coins",
+            "request": "launch",
+            "mainClass": "DSA.Lecture_12_Greedy.Code2Coins",
+            "projectName": "DSAFinalPreparation_e2803a5d"
+        },
+        {
+            "type": "java",
+            "name": "Code_2_Coins",
+            "request": "launch",
+            "mainClass": "DSA.Lecture_12_Greedy.Code_2_Coins",
+            "projectName": "DSAFinalPreparation_e2803a5d"
+        },
+        {
+            "type": "java",
+            "name": "SubTreeOfAnotherTree",
+            "request": "launch",
+            "mainClass": "DSA.Tree_BinaryTree.SubTreeOfAnotherTree",
+            "projectName": "DSAFinalPreparation_e2803a5d"
+        },
+        {
+            "type": "java",
             "name": "PreOrderSeqTree",
             "request": "launch",
             "mainClass": "DSA.Tree_BinaryTree.PreOrderSeqTree",
