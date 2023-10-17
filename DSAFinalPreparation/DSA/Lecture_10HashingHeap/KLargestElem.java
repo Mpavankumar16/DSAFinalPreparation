@@ -12,8 +12,8 @@ public class KLargestElem {
 
         for(int i: nums){
             p.add(i);
-            if(p.size()>k)
-                p.remove();
+           // if(p.size()>k)
+             //   p.remove();
         }
         return p.peek();
     }

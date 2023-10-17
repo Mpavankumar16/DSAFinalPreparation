@@ -4,10 +4,7 @@ import java.util.*;
 
 public class Practice{
     public static void main(String... args){
-        generate(4);
+        double val = 
+        System.out.println(Math.round(8/3.0));
     }
-    public static void generate(int numRows){
-		String s = "";
-        
-	}
 }

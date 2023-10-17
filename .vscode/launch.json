@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "InsertionSort",
+            "request": "launch",
+            "mainClass": "DSA.Lecture_5Sorting.InsertionSort",
+            "projectName": "DSAFinalPreparation_e2803a5d"
+        },
+        {
+            "type": "java",
+            "name": "KLargestElem",
+            "request": "launch",
+            "mainClass": "DSA.Lecture_10HashingHeap.KLargestElem",
+            "projectName": "DSAFinalPreparation_e2803a5d"
+        },
+        {
+            "type": "java",
             "name": "test",
             "request": "launch",
             "mainClass": "DSA.Test.test",
